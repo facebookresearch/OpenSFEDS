@@ -9,7 +9,7 @@ The paper introducing and describing the dataset is available [here](https://dl.
 
 Detailed dataset description can be found <a href="dataset description.pdf">here</a>.
 
-Data can be downloaded from [here](https://www.dropbox.com/scl/fo/296vq1p80gazokbooqye0/h?rlkey=je0q2imcuxzs2qju78qerwo4o&dl=0). Access to data set requires request by email.
+Data can be downloaded from [here](https://www.dropbox.com/sh/nmmrfllu54era5b/AAD49Ktl2P53clBtinsK5NDNa?dl=0). Access to data set requires request by email.
 
 # License
 The dataset is licensed under the <a href="LICENSE">GNU General Public License v3.0</a> license.
